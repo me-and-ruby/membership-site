@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+.showcase{
+    background-image: linear-gradient(to top, #1d1db5, #cf008e, #ff2e55, #ff9d1d, #f2f23e);
+    height: 50vh;
+}
